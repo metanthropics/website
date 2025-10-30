@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://metanthropics.github.io/website/sitemap.xml
