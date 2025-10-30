@@ -7,42 +7,42 @@ ninja.data = [{
     title: "MAIN",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/website/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "BLOG",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "PUBLICATIONS",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "PROJECTS",
           description: "A curated collection of projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "REPOSITORIES",
           description: "Our open-source projects, research code, and contributions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-people",
           title: "PEOPLE",
           description: "members of the lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/people/";
+            window.location.href = "/people/";
           },
         },{id: "post-our-research-agenda-the-path-to-agi",
         
@@ -52,19 +52,19 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/our-research-agenda/";
+            window.location.href = "/blog/2025/our-research-agenda/";
           
         },
       },{id: "news-announcing-metanthropic-lab",
           title: 'Announcing METANTHROPIC LAB',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/website/news/2025-11-10-announcing-metanhropic-labs/";
+              window.location.href = "/news/2025-11-10-announcing-metanhropic-labs/";
             },},{id: "projects-revisiting-alexnet-with-modern-optimization",
           title: 'Revisiting AlexNet with Modern Optimization',
           description: "Achieving 95.7% accuracy on CIF-AR-10 by updating a classic CNN architecture.",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/revisiting-alexnet/";
+              window.location.href = "/projects/revisiting-alexnet/";
             },},{
         id: 'social-email',
         title: 'email',
