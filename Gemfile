@@ -1,7 +1,3 @@
-# 1. Tell Vercel to use the Ruby version required by jekyll-terser
-ruby "3.4.2"
-
-# 2. Set the source for gems
 source 'https://rubygems.org'
 
 gem 'jekyll'
@@ -21,10 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
-
-    # 3. Use the 1.0.0 version that Vercel's log confirmed is available
-    gem 'jekyll-terser', '1.0.0'
-
+    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
@@ -39,6 +32,7 @@ group :other_plugins do
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
     gem 'ostruct'        # used by jekyll-twitter-plugin
+    # gem 'terser'         # used by jekyll-terser
+    # gem 'unicode_utils' -- should be already installed by jekyll
+    # gem 'webrick' -- should be already installed by jekyll
 end
-
-
