@@ -4,7 +4,7 @@ title: "Our Research Agenda: The Path to AGI"
 date: 2025-11-10
 author: Ekjot Singh
 tags: [AGI, AI-safety, large-language-models, research]
-description: "An overview of the core research pillars guiding our work at Metanthropic Labs on the path to building safe and beneficial AGI."
+description: "An overview of the core research pillars guiding our work at Metanthropic on the path to building safe and beneficial AGI."
 ---
 
 In our founding announcement, we stated our mission: **to build safe and broadly beneficial Artificial General Intelligence (AGI).** This is not a goal we take lightly, and it requires a research agenda that is both ambitious in its scope and rigorous in its execution. This post outlines the core pillars of our technical approach.
