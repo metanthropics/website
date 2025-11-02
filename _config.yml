@@ -5,13 +5,13 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: METANTHROPIC
 middle_name:
-last_name: LAB
+last_name:
 contact_note: >
   Feel free to get in touch using the links below.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  An independent research lab focused on advancing the frontiers of Artificial Intelligence.
+  An independent research company focused on advancing the frontiers of Artificial Intelligence.
 footer_text:
-keywords: Metanthropic Labs, Ekjot Singh, AI Research, Machine Learning, Deep Learning, NLP, Computer Vision, VIT Bhopal, Artificial Intelligence, Research Company, Research Lab # add your own keywords or leave empty
+keywords: Metanthropic, Metanthropic Labs, Ekjot Singh, AI Research, Machine Learning, Deep Learning, NLP, Computer Vision, VIT Bhopal, Artificial Intelligence, Research Company, Research Lab # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: main-logo-small.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -82,7 +82,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Metanthropic Labs Blog
+blog_name: Metanthropic Blog
 blog_description: Updates and insights from our research on the path to AGI.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
