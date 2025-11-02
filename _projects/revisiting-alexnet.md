@@ -7,7 +7,7 @@ importance: 1
 related_publications: true
 ---
 
-By Metanthropic Labs, [Ekjot Singh](https://www.github.com/ekjotsinghmakhija)
+By Metanthropic, [Ekjot Singh](https://www.github.com/ekjotsinghmakhija)
 
 This project revisits the classic 2012 AlexNet, a foundational deep convolutional neural network, and adapts it for the CIFAR-10 dataset[cite: 1, 2]. The primary goal was to explore how this pioneering architecture performs when enhanced with a suite of modern optimization and regularization techniques developed over the last decade[cite: 20, 25].
 
